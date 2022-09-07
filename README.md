@@ -1,11 +1,5 @@
 # 考勤管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**考勤１** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 ## 1、项目介绍
 
 考勤管理系统1具有多种角色
@@ -75,12 +69,4 @@
 ###　４.６　文档目录
 
 ![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081026605.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**考勤１** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
